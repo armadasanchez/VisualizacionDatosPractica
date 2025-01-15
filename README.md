@@ -1,8 +1,7 @@
 
 # **Evolución de Tendencias en el Mundo del Cine**
 
-
-
+https://github.com/armadasanchez/VisualizacionDatosPractica
 
 Este proyecto es un dashboard interactivo desarrollado con Python y Dash para analizar y visualizar métricas clave en el mundo del cine. Permite explorar datos como calificaciones de la audiencia, valoraciones de críticos y número de votos en función de características como géneros, clasificaciones, y duración de las películas.
 
