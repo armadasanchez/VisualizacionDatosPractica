@@ -93,8 +93,4 @@ Las contribuciones son bienvenidas. Si deseas mejorar este proyecto:
 4. Crea un Pull Request describiendo las mejoras.
 
 ## **Licencia**
-Este proyecto está bajo la Licencia MIT. Siéntete libre de usarlo y modificarlo según tus necesidades.
-
----
-
-¡Espero que este archivo sea útil para documentar tu proyecto! ¿Te gustaría añadir algo más? 😊
+Este proyecto está bajo la Licencia GPL-2.0 license. Siéntete libre de usarlo y modificarlo según tus necesidades.
